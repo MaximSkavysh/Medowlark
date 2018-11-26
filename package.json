@@ -1,0 +1,16 @@
+{
+  "name": "start1",
+  "version": "1.0.0",
+  "description": "examples",
+  "main": "start1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lobster",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express3-handlebars": "^0.5.2",
+    "npm": "^6.4.1"
+  }
+}
